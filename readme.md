@@ -74,7 +74,7 @@ Kongoriver safaris/
     ├── contact.html
     ├── index.html
     ├── room.html
-    ├── single-blog.html
+    ├── Amboseli
     ├── single-room.html
     ├── style.css
     ├── style.css.map
