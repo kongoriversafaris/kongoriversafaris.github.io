@@ -1,9 +1,9 @@
 /* ------------------------------------------------------
-Template Name: Roberto - Hotel & Resort HTML Template
-Template Author: Colorlib
-Template Author URI: https://colorlib.com
+This is the official website for Kongoriver tours and safaris
+Template Author: Majumarez
+Tinstagram account: @majumahrez
 Version: 1.0.0
-Last Update: Feb 9, 2019
+Last Update: Nov 7, 2023
 ----------------------------------------------------- */
 
 /* --------------------------------
@@ -11,7 +11,7 @@ To start 'Gulp' => npm run start
 -------------------------------- */
 
 File Structure:
-roberto/
+Kongoriver safaris/
 └── src/
     ├── css/
     │   ├── default-assets/
