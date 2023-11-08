@@ -73,8 +73,8 @@ Kongoriver safaris/
     ├── blog.html
     ├── contact.html
     ├── index.html
-    ├── room.html
+    ├── excursions.html
     ├── Amboseli.html
-    ├── single-room.html
+    ├── single-excursions.html
     ├── style.css
     ├── style.css.map
