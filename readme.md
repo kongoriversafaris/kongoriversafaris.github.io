@@ -1,7 +1,7 @@
 /* ------------------------------------------------------
 This is the official website for Kongoriver tours and safaris
 Template Author: Majumarez
-Tinstagram account: @majumahrez
+Instagram account: @majumahrez
 Version: 1.0.0
 Last Update: Nov 7, 2023
 ----------------------------------------------------- */
@@ -69,12 +69,7 @@ Kongoriver safaris/
     │   ├── testimonial.scss
     │   ├── widget.scss
     │   ├── style.scss
-    ├── about.html
-    ├── blog.html
-    ├── contact.html
-    ├── index.html
-    ├── excursions.html
-    ├── Amboseli.html
+    ├── Pages.html
     ├── single-excursions.html
     ├── style.css
     ├── style.css.map
